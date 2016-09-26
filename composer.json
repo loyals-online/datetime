@@ -17,6 +17,5 @@
   ],
   "extra": {
     "installer-name": "datetime"
-  },
-  "target-dir": "vendor/mediaweb/datetime"
+  }
 }
