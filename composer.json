@@ -1,0 +1,22 @@
+{
+  "name": "mediaweb/datetime",
+  "description": "helper classes for datetime operations",
+  "type": "library",
+  "keywords": [
+    "silverstripe",
+    "contactpage",
+    "module",
+    "cms"
+  ],
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Martijn Schenk",
+      "email": "martijnschenk@loyals.nl"
+    }
+  ],
+  "extra": {
+    "installer-name": "datetime"
+  },
+  "target-dir": "vendor/mediaweb/datetime"
+}
